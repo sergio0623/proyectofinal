@@ -6,3 +6,8 @@ class Apoyo:
     def BuscarApoyo(self):
         print("Definir Apoyo.")
 Apoyo.BuscarApoyo()
+
+class rapido:
+    def as
+
+class Experiencia:
