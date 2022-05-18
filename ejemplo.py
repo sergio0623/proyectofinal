@@ -1,0 +1,2 @@
+class rapido:
+    def as
