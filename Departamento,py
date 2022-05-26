@@ -23,7 +23,7 @@ class Departamento:
                 outfile = open('Departamento.txt','a')
                 CodDepartamento= input("Ingrese el Codigo del Departamento: ")
                 NomDepartamento= input("Ingrese Nombre del Departamento : ")
-                Coordinador= input("Ingrese el Nombre del Coordinar : ")
+                Coordinador= input("Ingrese el Nombre del Coordinador : ")
                 outfile.write("Codigo del Departamento: " + CodDepartamento + "\n")
                 outfile.write("Nombre del Departamento: " +NomDepartamento + "\n")
                 outfile.write("Nombre del Coordinador: " +Coordinador + "\n\n")
