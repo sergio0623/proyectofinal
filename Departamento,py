@@ -1,0 +1,45 @@
+from Usuario import Usuario
+
+
+class Departamento:
+    CodDepartamento: str
+    NomDepartamento: str
+    Coordinador: Usuario
+    
+    
+    def __init__(self, ususario:Usuario):
+           self.Usuario = ususario
+
+    def BuscarDepartamento(self):
+           print("Se encontraro lo siguiente:")
+         
+    def DefinirDepartamento(self):
+           print("Ha definido correctamente")
+           
+    def main():
+            Departamento= int(input("Ingrese el Departamento: "))
+            
+            for i in range(Departamento):
+                outfile = open('Departamento.txt','a')
+                CodDepartamento= input("Ingrese el Codigo del Departamento: ")
+                NomDepartamento= input("Ingrese Nombre del Departamento : ")
+                Coordinador= input("Ingrese el Nombre del Coordinar : ")
+                outfile.write("Codigo del Departamento: " + CodDepartamento + "\n")
+                outfile.write("Nombre del Departamento: " +NomDepartamento + "\n")
+                outfile.write("Nombre del Coordinador: " +Coordinador + "\n\n")
+                
+    main()
+           
+           
+           
+           
+           
+           
+           
+           
+           
+         
+     
+       
+       
+       
