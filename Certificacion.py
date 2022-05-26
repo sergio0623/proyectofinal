@@ -12,7 +12,7 @@ class Certificacion:
         print("Se actualizo la Certificacion.")
 
         def main():
-            Certificacion = str(input("Ingrese la certificacion: "))
+            Certificacion = str(input("Ingrese la certificacion : "))
 
             for i in range(Certificacion):
                 outfile = open('Certificacion.txt','a')
