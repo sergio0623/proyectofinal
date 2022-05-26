@@ -13,7 +13,7 @@ class Grupo:
         print("Modificado. ")
     
         def main():
-            Grupo= int(input("Ingrese el grupo: "))
+            Grupo= int(input("Ingrese el grupo : "))
 
             for i in range(Grupo):
                 outfile = open('Grupo.txt','a')
