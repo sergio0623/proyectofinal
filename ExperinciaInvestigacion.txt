@@ -1,0 +1,8 @@
+Años de Investigación: 12
+Cantidad de Publicaciones: 2
+Tipo de Publicaciones: docencia
+
+Años de Investigación: 12
+Cantidad de Publicaciones: & "C:/Users/SOFIA MARCELA/AppData/Local/Programs/Python/Python310/python.exe" "c:/Users/SOFIA MARCELA/Desktop/Programación/FinalProgramacion/proyectofinal/Formacion.py"
+Tipo de Publicaciones: & "C:/Users/SOFIA MARCELA/AppData/Local/Programs/Python/Python310/python.exe" "c:/Users/SOFIA MARCELA/Desktop/Programación/FinalProgramacion/proyectofinal/GrupoInvestigacion.py"
+

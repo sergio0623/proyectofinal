@@ -7,8 +7,8 @@ class Departamento:
     Coordinador: Usuario
     
     
-    def __init__(self, ususario:Usuario):
-           self.Usuario = ususario
+    def __init__(self, usuario:Usuario):
+           self.Usuario = usuario
 
     def BuscarDepartamento(self):
            print("Se encontraro lo siguiente:")
